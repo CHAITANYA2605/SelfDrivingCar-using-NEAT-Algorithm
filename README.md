@@ -39,7 +39,6 @@ This README now not only explains the project and how to set it up but also offe
 
 ### Instructions:
 
-- Replace `"CHAITANYA2605"` in the GitHub clone URL with your actual GitHub username.
 - Ensure you have a `requirements.txt` file listing all the necessary Python packages (e.g., `pygame`, `neat-python`).
 - If you have a specific license file, link it appropriately.
 
